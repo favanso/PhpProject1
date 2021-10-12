@@ -1,0 +1,62 @@
+
+.instructions {
+  background-color: #e1e6e2;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.TopNav{
+  color: blue;
+  text-align: justify;
+  margin: 5px;
+}
+
+.Space{
+  margin-top: 15px;
+}
+
+#text{
+  text-align: left;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#error{
+  font-size: 20px;
+  font-weight: bold;
+  color: darkred;
+}
+/*Table design with https://www.tablesgenerator.com/html_tables*/
+.tabela{
+  margin: 0px auto;
+  border-width: medium;
+  border-collapse:collapse;
+  border-color:#ccc;
+  border-spacing:0px;
+}
+.tabela th{
+  background-color:#f0f0f0;
+  border-color:#ccc;
+  border-style:solid;
+  border-width:1px;
+  color:#333;
+  font-family:Arial, sans-serif;
+  font-size:16px;font-weight:bold;
+  overflow:hidden;
+  padding:10px 10px;
+  word-break:normal;
+}
+.tabela td{
+  background-color:#fff;
+  border-color:#ccc;
+  border-style:solid;
+  border-width:1px;
+  color:#333;
+  font-family:Arial, sans-serif;
+  font-size:14px;
+  overflow:hidden;
+  padding:10px 10px;
+  word-break:normal;
+}
+
